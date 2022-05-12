@@ -9,10 +9,10 @@ body {
 
 header {
   background-color: black;
-  border-top: #E4A4EE solid 5px;
-  border-bottom: #17D3FF solid 5px;
-  border-left: #FFAA7B solid 5px;
-  border-right: #FEE975 solid 5px;
+  border-top: #2070f2 solid 5px;
+  border-bottom: #f22070 solid 5px;
+  border-left:	#70f220 solid 5px;
+  border-right:	#70f220 solid 5px;
   margin: 20px;
 }
 
